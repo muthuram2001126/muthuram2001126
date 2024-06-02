@@ -2,7 +2,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" align="right alt="Coding" width="400>
 <h3 align="center">Passionate BE Computer Science student committed to continuous learning and eager to apply technical knowledge to real-world challenges. Accomplished participant in the 2022 Smart India Hackathon, achieved a Gold Badge in problem solving on HackerRank, completed the 100daysofcoding challenge all showcased on LinkedIn and solved over 200+ problems.</h3>
 
-- 🔭 I’m currently working on **Avalon**
+- 🔭 I’m currently working on **Avasoft/Zeb**
+
+- 🔭 I’m currently working on **Avasoft/Zeb**
 
 - 🌱 I’m currently learning **React, Node, Golang, MsSql**
 
